@@ -1,3 +1,17 @@
+'''
+currently used trading pairs:
+
+AAVEUSDC
+BCHUSDC
+BNBUSDC
+BTCUSDC
+ETHUSDC
+SOLUSDC
+ZENUSDC
+
+author: T. Kowalski, with help of ChatGPT & Microsoft Copilot - thanks to them code looks much nicer.
+'''
+
 import numpy as np
 import tensorflow as tf
 import pandas as pd
